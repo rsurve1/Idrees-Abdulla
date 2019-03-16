@@ -1,4 +1,4 @@
-.banner {
+#opaque-img {
   /* 1. Set a background image */
   background-image: url(../../Images/background.jpg);
   /* 2. Make the background image cover the banner div */
